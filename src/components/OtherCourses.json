@@ -1,0 +1,25 @@
+[
+   { "id": "131A", "name": "CNIT 131A - XML and JSON", "units": 3 },
+   { "id": "131H", "name": "CNIT 131H - Introduction to HTML and CSS", "units": 1 },
+   { "id": "132", "name": "CNIT 132 - Intermediate HTML & CSS", "units": 3 },
+   { "id": "132A", "name": "CNIT 132A - Advanced HTML & CSS", "units": 3 },
+   { "id": "133", "name": "CNIT 133 - JavaScript, jQuery, AXAX", "units": 3 },
+   { "id": "133A", "name": "CNIT 133A - JavaScript Libraries/Frameworks", "units": 3 },
+   { "id": "133I", "name": "CNIT 133I - JavaScript for IoT and XR", "units": 3 },
+   { "id": "133M", "name": "CNIT 133M - Mobile Web w/HTML, CSS & JS", "units": 3 },
+   { "id": "134", "name": "CNIT 134 - Server Side Technologies for the Web", "units": 3 },
+   { "id": "140", "name": "CNIT 140 - IT Security Practices", "units": 3 },
+   { "id": "141", "name": "CNIT 141 - Cryptography for Computer Networks", "units": 3 },
+   { "id": "151", "name": "CNIT 151 - Introduction to Virtualization", "units": 3 },
+   { "id": "152", "name": "CNIT 152 - Incident Response", "units": 3 },
+   { "id": "153", "name": "CNIT 153 - VMware: Install, Configure, Manage", "units": 3 },
+   { "id": "154", "name": "CNIT 154 - EMC - Information Storage and Management", "units": 3 },
+   { "id": "155", "name": "CNIT 155 - AWS Cloud Practitioner", "units": 3 },
+   { "id": "160", "name": "CNIT 160 - Cybersecurity Responsibilities", "units": 3 },
+   { "id": "170", "name": "CNIT 170 - Introduction to Cloud Computing", "units": 3 },
+   { "id": "182", "name": "CNIT 182 - Hacking and Securing Automotive Systems", "units": 3 },
+   { "id": "195", "name": "CNIT 195 - Web Development Capstone", "units": 3 },
+   { "id": "197", "name": "CNIT 197 - Internship and Work Experience", "units": 1 },
+   { "id": "198", "name": "CNIT 198 - Internship and Work Experience", "units": 2 }
+]
+
